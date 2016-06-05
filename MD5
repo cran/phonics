@@ -1,7 +1,7 @@
-af904fed52a0654068c7f4fd409cc302 *DESCRIPTION
+596986fd9ba5c647fac8cac0f0f71f60 *DESCRIPTION
 023db5dd668dd029b5a898fba492d620 *LICENSE
 a74bc9b3d089188b6aa3a89c9c61fa73 *NAMESPACE
-b9ddce902b828c28e1c86cb13a6db1e9 *R/RcppExports.R
+b630d57cbe067034001f9b4ba2a257d4 *R/RcppExports.R
 46b787302400fef34ae3e36d0e1efcdb *R/caverphone.R
 07da68618acaf4a623aefa32f1fa7a5c *R/cologne.R
 defb2773fc42ba77eb1456047c8a282b *R/lein.R
@@ -16,7 +16,7 @@ a3dc657702190b1a89d0d9c0d7bf7f4d *inst/COPYRIGHTS
 5c056c513855dc1609dca0d818df8c7d *man/caverphone.Rd
 3318a78ea509052274df3a2e3b0a868d *man/cologne.Rd
 03d38fc8970420527d0526c678f95c22 *man/lein.Rd
-0981d4c42a6720582364c3b7e2ed1ee3 *man/metaphone.Rd
+84ea73e07789935894fc2a554c185543 *man/metaphone.Rd
 b48576ef900524ffffd861d2d4f4b415 *man/mra.Rd
 7bcdba783e40fcdc6269ce9efde6bfde *man/nysiis.Rd
 910d4a542faa769bf25a213f030a5e2a *man/phonics-package.Rd
@@ -24,8 +24,8 @@ b48576ef900524ffffd861d2d4f4b415 *man/mra.Rd
 5d32bcc8ff9fed96f6f620f339399a3a *man/soundex.Rd
 bac83cac3a5d5b32c5f402b80bc08a94 *man/statcan.Rd
 21d57cc61acb15d1b9d326201cdfe2a6 *src/RcppExports.cpp
-f734313737bbc774dcf6912480626c8b *src/metaphone.cpp
-68571e694bfc74ccbb76d3ad1f62de19 *src/soundex.cpp
+755085e5a0142e1a40fa8294f9211110 *src/metaphone.cpp
+a8b3c2672b2def7bf53846dfaaa52bc0 *src/soundex.cpp
 c1ae8247892607031d966fc65e809967 *tests/test-all.R
 b1c1dd493f16d63134ca181d96798947 *tests/testthat/caverphone-modified.csv
 d424fa10bca698d31714003484f1bbd5 *tests/testthat/caverphone.csv
@@ -43,9 +43,9 @@ d424fa10bca698d31714003484f1bbd5 *tests/testthat/caverphone.csv
 c2634392c770a600ec394547fca4bbc7 *tests/testthat/test-caverphone.R
 3896e2739e1acf8c7c813b739aa2ac19 *tests/testthat/test-cologne.R
 2544cf99f6b6a14405c34572afb45dd2 *tests/testthat/test-lein.R
-fa037606e8c68d317c8d2ffb93e019ef *tests/testthat/test-metaphone.R
+7f521e3ff5b40e76651837e6951f60a1 *tests/testthat/test-metaphone.R
 4239e404364b8d71329f6a593f1ba18f *tests/testthat/test-mra.R
 770d0f221f7d071e2aaf7a8f8abfc786 *tests/testthat/test-nysiis.R
 31b448f05b4467f4ea032d123ffdcd2f *tests/testthat/test-rogerroot.R
-666fbd50b3b88c6043e917403f822eea *tests/testthat/test-soundex.R
+ec17105e49f3634a29972050dd72da5a *tests/testthat/test-soundex.R
 e76fca181403a722360ced968da2e169 *tests/testthat/test-statcan.R
