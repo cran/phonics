@@ -1,8 +1,8 @@
 Package: phonics
 Type: Package
 Title: Phonetic Spelling Algorithms
-Version: 0.7.4
-Date: 2016-06-04
+Version: 0.7.5
+Date: 2017-08-25
 Encoding: UTF-8
 Authors@R: c(person(given = "James P.", family = "Howard, II",
 		                email = "jh@jameshoward.us", role = c("aut", "cre")),
@@ -15,13 +15,14 @@ Description: Provides a collection of phonetic algorithms including
 License: BSD_2_clause + file LICENSE
 LazyData: TRUE
 Imports: Rcpp (>= 0.12.1)
-Suggests: testthat
+Suggests: testthat, knitr, rmarkdown, microbenchmark, readr, ggplot2
 LinkingTo: Rcpp, BH
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1
+VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2016-06-04 23:20:35 UTC; howardjp
+Packaged: 2017-08-25 04:20:14 UTC; howarjp1
 Author: James P. Howard, II [aut, cre],
   Oliver Keyes [ctb]
 Maintainer: "James P. Howard, II" <jh@jameshoward.us>
 Repository: CRAN
-Date/Publication: 2016-06-05 08:44:39
+Date/Publication: 2017-08-25 04:31:14 UTC
