@@ -1,12 +1,12 @@
 Package: phonics
 Type: Package
 Title: Phonetic Spelling Algorithms
-Version: 0.7.5
-Date: 2017-08-25
+Version: 1.0.0
+Date: 2018-02-13
 Encoding: UTF-8
 Authors@R: c(person(given = "James P.", family = "Howard, II",
-		                email = "jh@jameshoward.us", role = c("aut", "cre")),
-		         person(given = "Oliver", family = "Keyes", role = "ctb"))
+                    email = "jh@jameshoward.us", role = c("aut", "cre")),
+                    person(given = "Oliver", family = "Keyes", role = "ctb"))
 URL: https://jameshoward.us/software/phonics/,
         https://github.com/howardjp/phonics
 BugReports: https://github.com/howardjp/phonics/issues
@@ -20,9 +20,9 @@ LinkingTo: Rcpp, BH
 RoxygenNote: 6.0.1
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2017-08-25 04:20:14 UTC; howarjp1
+Packaged: 2018-02-13 20:32:09 UTC; howarjp1
 Author: James P. Howard, II [aut, cre],
   Oliver Keyes [ctb]
 Maintainer: "James P. Howard, II" <jh@jameshoward.us>
 Repository: CRAN
-Date/Publication: 2017-08-25 04:31:14 UTC
+Date/Publication: 2018-02-13 20:51:00 UTC

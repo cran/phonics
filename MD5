@@ -1,4 +1,4 @@
-5f2eaf0f45f3b7478f8870872a2d45f4 *DESCRIPTION
+b01210c463b8816cfcf53394250696c2 *DESCRIPTION
 023db5dd668dd029b5a898fba492d620 *LICENSE
 fb999f5e3ee62189e96d2b6bfacead38 *NAMESPACE
 564c393f58763456a072b99301a14afb *R/RcppExports.R
@@ -12,13 +12,13 @@ d2873586aef10a001b094b9206880fe0 *R/onca.R
 694fcca467a80c4a4082a40ebd9c3be7 *R/phonics.R
 bba1917f60b07d036ea66554c2f7bd40 *R/rogerroot.R
 e11b3c1242b0f586b0c0a9a0936d0e58 *R/statcan.R
-34134c1e81fa8df86fc535e7491db19a *README.md
+3ef6c7f3fc7eb6de124e1d9440f6aee0 *README.md
 cdd0caef84d7bbdd4d0be55b3b2bbfc6 *build/vignette.rds
 0d1d937a04b3df50d8761a023f813a9b *inst/CITATION
 a3dc657702190b1a89d0d9c0d7bf7f4d *inst/COPYRIGHTS
 9a3af3affa440766d99f3e985ce26706 *inst/doc/phonics.R
 635d829c23bcc19973f135a8289fded1 *inst/doc/phonics.Rmd
-708471dfbf63f8917fe332a745d5ef6b *inst/doc/phonics.html
+ee7511016ef25b1a4087277bd83c8803 *inst/doc/phonics.html
 c485105c990cd0e7139e806f33faefe6 *man/caverphone.Rd
 55725849777aaecdaa5ffef1738bd738 *man/cologne.Rd
 e6e10046f20de5d49c495763ee149b37 *man/lein.Rd
