@@ -33,6 +33,13 @@ itself based on the PHP internal implementation.
 The variable \code{maxCodeLen} is the limit on how long the returned
 metaphone should be.
 }
+\section{Caveats}{
+
+The \code{metaphone} algorithm is only
+defined for inputs over the standard English alphabet, \emph{i.e.},
+"A-Z." For inputs outside this range, the output is undefined.
+}
+
 \examples{
 metaphone("wheel")
 metaphone(c("school", "benji"))
@@ -46,3 +53,4 @@ Other phonics: \code{\link{caverphone}},
   \code{\link{rogerroot}}, \code{\link{soundex}},
   \code{\link{statcan}}
 }
+\concept{phonics}

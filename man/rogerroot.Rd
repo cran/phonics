@@ -25,6 +25,13 @@ or vector of strings to encode.
 The variable \code{maxCodeLen} is the limit on how long the returned
 code should be.  The default is 5.
 }
+\section{Caveats}{
+
+The \code{rogerroot} algorithm is only
+defined for inputs over the standard English alphabet, \emph{i.e.},
+"A-Z." For inputs outside this range, the output is undefined.
+}
+
 \examples{
 rogerroot("William")
 rogerroot(c("Peter", "Peady"))
@@ -43,3 +50,4 @@ Other phonics: \code{\link{caverphone}},
   \code{\link{phonex}}, \code{\link{soundex}},
   \code{\link{statcan}}
 }
+\concept{phonics}
