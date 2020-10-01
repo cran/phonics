@@ -51,6 +51,10 @@ Paper CTP060902, University of Otago, New Zealand, 2002.
 
 David Hood, "Caverphone Revisited," Technical Paper CTP150804
 University of Otago, New Zealand, 2004.
+
+James P. Howard, II, "Phonetic Spelling Algorithm Implementations
+for R," \emph{Journal of Statistical Software}, vol. 25, no. 8,
+(2020), p. 1--21, <10.18637/jss.v095.i08>.
 }
 \seealso{
 Other phonics: 

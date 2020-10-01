@@ -42,6 +42,10 @@ cologne("Stevenson", maxCodeLen = 8)
 
 }
 \references{
+James P. Howard, II, "Phonetic Spelling Algorithm Implementations
+for R," \emph{Journal of Statistical Software}, vol. 25, no. 8,
+(2020), p. 1--21, <10.18637/jss.v095.i08>.
+
 Hans Joachim Postel. "Die Koelner Phonetik. Ein Verfahren zur
 Identifizierung von Personennamen auf der Grundlage der
 Gestaltanalyse."  \emph{IBM-Nachrichten} 19. Jahrgang, 1969,
